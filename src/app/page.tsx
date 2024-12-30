@@ -43,7 +43,7 @@ export default function App() {
             rotateY: cardRotateY,
           }}
         >
-          {/* content */}
+          {/* content here */}
           <p className="text-white text-4xl font-bold">3D Card</p>
         </motion.div>
       </motion.div>
