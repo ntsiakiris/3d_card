@@ -37,7 +37,7 @@ export default function App() {
         }}
       >
         <motion.div
-          className="shadow-[0px_0px_50px_-7px_rgba(0,0,0,0.8)] rounded-lg bg-blue-500 w-[400px] h-[250px] flex items-center justify-center"
+          className="shadow-[0px_0px_50px_-7px_rgba(0,0,0,0.85)] rounded-lg bg-blue-500 w-[400px] h-[250px] flex items-center justify-center"
           style={{
             rotateX: cardRotateX,
             rotateY: cardRotateY,
